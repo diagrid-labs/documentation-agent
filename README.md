@@ -88,7 +88,7 @@ dapr run \
 
 ### Option 2
 
-Create a project in the [Catalyst UI](https://catalyst.r1.diagrid.io/dashboard) and leverage it to run your agent:
+Create a project in the [Diagrid Console](https://catalyst.r1.diagrid.io/dashboard) and leverage it to run your agent:
 
 ```bash
 diagrid dev run -f catalyst.yaml --project docsagent
